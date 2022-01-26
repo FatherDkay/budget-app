@@ -31,4 +31,4 @@ https://www.github.com/FatherDkay
 paul.d.bailey@hotmail.com
 
 ## Screenshot
-![ScreenShot](/assets/c19ScreenShot.jpg "Screen Shot of Budget Tracker App")
+![ScreenShot](./assets/c19ScreenShot.jpg "Screen Shot of Budget Tracker App")
